@@ -1,0 +1,15 @@
+{
+    "id": "1faa5696-13a8-4aec-b49b-055dd97b3f64",
+    "name": "Test Rocket Module",
+    "nameSlug": "test-rocket-module",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.7.0",
+    "description": "Rocket Module",
+    "author": {
+        "name": "Test",
+        "homepage": "",
+        "support": ""
+    },
+    "classFile": "TestRocketModule.ts",
+    "iconFile": "icon.png"
+}
